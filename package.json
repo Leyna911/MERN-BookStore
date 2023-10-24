@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "mongoose": "^7.6.3",
+    "react-axios": "^2.0.6",
+    "react-icons": "^4.11.0"
+  }
+}
